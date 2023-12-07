@@ -1,0 +1,14 @@
+body {
+    height: 2000px;
+  }
+  
+  #backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    display: none;
+  }
