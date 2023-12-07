@@ -4,9 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MuushroomrGal</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="images/MushroomrGal_title.jpg" alt="Game_title_screen">
+
+  <img src="images/MushroomrGal_title.jpg" alt="Your Image" onclick="openNewTab('https://namyco.org/')" width="500" height="600">
+  <script>
+    // JavaScript function to open a new tab
+    function openNewTab(url) {
+      // Use window.open() to open a new tab
+      window.open(url, '_blank');
+    }
+    </script>
+
     
     <h1>MuushroomrGal!</h1>
     
@@ -24,7 +35,12 @@
     <p>MuushroomrGal is a side scroller platformer game where you have to maneuver and jump through many obstacles while 
         throwing and attaching your mushrooms to everything in order to bring the beautiful forest back. </p>
 
-    <img src="images/Muushroomr_Gal.jpg" alt="in_game_character">
-    
+  <img src="images/Muushroomr_Gal.jpg" alt="Your Image" width="500" height="600">
+
+  <div id="backToTop">Back to Top</div>
+
+  <!-- Include the external JavaScript file -->
+  <script src="script.js"></script>
+
 </body>
 </html>
