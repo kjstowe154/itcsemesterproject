@@ -1,6 +1,8 @@
 body {
   height: 2000px;
-  background-color: #092475;
+  background-color: #6b7cac;
+  padding-left: 8px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
   
 #backToTop {
@@ -19,7 +21,7 @@ li {
 }
 
 h2 {
-  color: white;
+  color: #341c3a;
 }
 
 p {
@@ -27,7 +29,7 @@ p {
 }
 
 h1 {
-  color: white;
+  color: #341c3a;
   padding: 12px;
   text-align: center;
 }
