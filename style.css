@@ -4,17 +4,6 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
   
-#backToTop {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background-color: #007bff;
-  color: #fff;
-  padding: 10px;
-  cursor: pointer;
-  display: none;
-}
-
 li {
   color: white;
 }
@@ -31,6 +20,17 @@ h1 {
   color: #341c3a;
   text-align: center;
   padding: 50px;
+}
+
+#backToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  display: none;
 }
 
 #social {
@@ -58,7 +58,7 @@ h1 {
 
 #navlir {
   float: right;
-  border-right: 2px solid #4b2a57;
+  border-left: 2px solid #4b2a57;
 }
 
 #navele {
