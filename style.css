@@ -1,7 +1,6 @@
 body {
   height: 2000px;
   background-color: #6b7cac;
-  padding-left: 8px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
   
@@ -30,14 +29,14 @@ p {
 
 h1 {
   color: #341c3a;
-  padding: 12px;
   text-align: center;
+  padding: 50px;
 }
 
 #social {
-  display: block;
+  display: inline-block;
+  text-align: center;
   color: white;
-  border-color: white;
   padding: 12px;
 }
 
@@ -47,10 +46,19 @@ h1 {
   padding: 0;
   overflow: hidden;
   background-color: #341c3a;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
-#navli {
+#navlil {
   float: left;
+  border-right: 2px solid #4b2a57;
+}
+
+#navlir {
+  float: right;
+  border-right: 2px solid #4b2a57;
 }
 
 #navele {
