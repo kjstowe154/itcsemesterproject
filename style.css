@@ -1,5 +1,6 @@
 body {
   height: 2000px;
+  background-color: #092475;
 }
   
 #backToTop {
@@ -13,10 +14,51 @@ body {
   display: none;
 }
 
+li {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+h1 {
+  color: white;
+  padding: 12px;
+  text-align: center;
+}
+
+#social {
+  display: block;
+  color: white;
+  border-color: white;
+  padding: 12px;
+}
+
 #nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #341c3a;
+}
+
+#navli {
   float: left;
+}
+
+#navele {
   display: block;
   text-align: center;
   padding: 14px 16px;
-  background-color: gray;
+  color: white;
+  text-decoration: none;
+}
+
+#navele:hover {
+  background-color: #4b2a57;
 }
