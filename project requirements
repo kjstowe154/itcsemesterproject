@@ -4,6 +4,7 @@
 2. At least 5 hyperlinked files, including each of the following:
 a word-processing file, a spreadsheet, a pdf file, a graphics file (such as jpg, gif, or png), and a program file 
 (such as JavaScript, Perl, VisualBasic, C++, or Python), and a video file (such as mpg, mov, avi, wmv). 
+- we have a word processing review page, a to do spreadsheet, many pictures, our javascript file, and a pdf terms and conditions
  
 3. At least one radio button or picture with hyperlinked functionality. 
 - Matt has a picture with an easter egg that takes you to a different website when you click on it. 
@@ -13,14 +14,13 @@ the game title picture of mushroomrGal.
 - Matt will add a link to his facebook and to youtube 
 
 5. At least one iteration loop (such as “for” or “while”) using JavaScript. 
-- For both 5 and 6 I made a list on the main page 
-that iterates one time and shows the prices per game. but for some reason it shows each game 2 times so i figured i make it 
-look like a christmas sale  
+- made a loop for our christmass sale on the main page. 
 
 6. At least one use of an ordered or unordered list. 
 - unordered list utilized for navigation bar
 
 7. Use of at least 2 different fonts. 
+- we have the h1 fonts and h2 and p different 
 
 8. Use of at least 2 different font sizes. 
 - h1, h2, p used throughout (all are different sizes)
@@ -32,15 +32,16 @@ look like a christmas sale
 - purple titles, white body
 
 11. Use of at least one table. 
-- I made a fun table in the images folder 
+- made a table in javascript and its on the main page
 
 12. An appropriate background picture. 
 - background on all titles of pages
 
 13. Appropriate layout, coloring, styling, and usability. 
+- we think we did good 
 
 14. Use of at least 2 anchor tags.
 - I made a back to the top button, and a download image link 
 
 15. Use of at least one email tag.
-- done
+- made a link to gmail
