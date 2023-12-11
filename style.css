@@ -23,6 +23,10 @@ h1 {
   text-align: center;
   padding: 50px;
   font-size: 3em;
+  background-image: url(images/backgroung\ image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
 }
 
 #backToTop {
@@ -87,4 +91,10 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 50px;
+}
+
+#spreadsheet {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
