@@ -30,6 +30,12 @@ h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+#download {
+    color: white;
+    text-align: center;
+    display: block;
+}
+
 #backToTop {
   position: fixed;
   bottom: 20px;
