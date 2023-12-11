@@ -22,11 +22,12 @@ h1 {
   color: #341c3a;
   text-align: center;
   padding: 50px;
-  font-size: 3em;
+  font-size: 3.5em;
   background-image: url(images/backgroung\ image.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #backToTop {
