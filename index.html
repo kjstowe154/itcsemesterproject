@@ -41,7 +41,6 @@
         height="500" 
         src="https://docs.google.com/spreadsheets/d/165zce9wT_zGGfMF0tc-j1x2x6dERzr6j_FK9cjglCuU/edit#gid=1386834576">
     </iframe>
-
     <h2>Take a look at our sales!</h2>
     <img src="images/SalesGraph.jpg" alt="title_of_game" id="image" width="400" height="500">
     <h2>Look at our wonderful reviews!</h2>
@@ -51,35 +50,6 @@
         height="500" 
         src="https://docs.google.com/document/d/1AdalX0hAys8GHpdzYbOboz3U8SoW1dlDJNfi126ODEQ/edit">
     </iframe>
-    <style>
-        .bar {
-            width: 20px;
-            height: 150px;
-            border: 1px solid #000;
-            display: inline-block;
-        }
-    </style>
-     <div id="chart"></div>
-
-    <script>
-        var sales = [
-            { game: 'Code Sculpt', sales: 1000 },
-            { game: 'Monster Rhythm', sales: 1289 },
-            { game: 'Throne of Shadows', sales: 3896 },
-            { game: 'Mushroomrgal', sales: 64738 }
-        ];
-
-        var chart = document.getElementById('chart');
-
-        sales.forEach(function(sale) {
-            var bar = document.createElement('div');
-            bar.className = 'bar';
-            bar.style.height = (sale.sales / 1000) + 'px';
-            bar.title = sale.game + ': $' + sale.sales;
-            chart.appendChild(bar);
-        });
-    </script>
- 
     <!-- HTML anchor element with a placeholder ID -->
     <a id="social" href="https://www.facebook.com/profile.php?id=100008013644866">Visit our Social Media!</a>
     <a id="social" href="https://www.youtube.com/">Visit our Youtube!</a>
