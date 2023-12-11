@@ -10,16 +10,19 @@ li {
 
 h2 {
   color: #341c3a;
+  text-align: center;
 }
 
 p {
   color: white;
+  text-align: center;
 }
 
 h1 {
   color: #341c3a;
   text-align: center;
   padding: 50px;
+  font-size: 3em;
 }
 
 #backToTop {
@@ -34,7 +37,7 @@ h1 {
 }
 
 #social {
-  display: inline-block;
+  display: block;
   text-align: center;
   color: white;
   padding: 12px;
@@ -71,4 +74,17 @@ h1 {
 
 #navele:hover {
   background-color: #4b2a57;
+}
+
+#khameleon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fakesales {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
 }
